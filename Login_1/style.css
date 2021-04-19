@@ -1,0 +1,26 @@
+* {
+    font-size: 25px;
+    box-sizing: border-box;
+    background-color: #f8db59;
+}
+header {
+    text-align: center;
+}
+
+header h1 {
+    color: #FFDF49;
+    padding:2cm 3cm 2cm 3cm;
+    margin: 2cm 10cm 2cm 10cm;
+    font-size: 3rem;
+    background-color: #000000;
+    border: 20px solid#f8d63c;
+}
+button {
+    color: #FFDF49;
+    margin: 30px;
+    padding: 1pc 12pc;
+    background: none;
+    border: 5px solid  #f8d63c;
+    background-color: #000000;
+    border-radius: 1rem;
+}
